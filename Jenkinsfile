@@ -5,8 +5,8 @@ pipeline {
     agent any
 stages{
 		stage('Show file Wquintero'){//Paso de chequeo
-			steps{
-      type readme.md
+	steps{
+      bat'type readme.md'
       }
      }
     }
