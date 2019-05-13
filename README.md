@@ -13,11 +13,10 @@ Revision de la publicacion con ngrok
 http://99bce47f.ngrok.io
 ```
 
-### Installing
+### Ejecucion del Job
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Se ejeuta la rpimera prueba
+de la ejecucion
 
 ```
 Give the example
