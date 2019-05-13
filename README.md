@@ -7,10 +7,10 @@ Hola buenos dias
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Revision de la publicacion con ngrok
 
 ```
-Give examples
+http://99bce47f.ngrok.io
 ```
 
 ### Installing
