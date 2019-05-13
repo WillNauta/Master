@@ -6,7 +6,7 @@ pipeline {
 stages{
 		stage('Show file Wquintero'){//Paso de chequeo
 			steps{
-      type filename.txt
+      type readme.md
       }
      }
     }
