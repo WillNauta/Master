@@ -1,10 +1,9 @@
 # Proyectos de William
-asdfasdf
 
 Esta es la primera version de mi respositorio
 
-## Getting Started
-Hola buenos dias
+## Ejecucion del JOB
+Readme
 
 ### Prerequisites
 
@@ -20,7 +19,7 @@ Se ejeuta la rpimera prueba
 de la ejecucion
 
 ```
-Give the example
+En el Jenkins File
 ```
 
 And repeat
