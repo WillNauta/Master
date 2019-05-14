@@ -4,7 +4,7 @@
 pipeline {
     agent any
 stages{
-		stage('Show file Wquintero cambio en el archivo Base.java'){//Paso de chequeo
+		stage('Base.java 0.11'){//Paso de chequeo
 	steps{
       bat'type pom.xml'
       }
